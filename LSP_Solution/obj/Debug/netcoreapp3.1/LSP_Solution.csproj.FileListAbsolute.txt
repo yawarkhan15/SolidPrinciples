@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.exe
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\bin\Debug\netcoreapp3.1\LSP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\LSP_Solution\obj\Debug\netcoreapp3.1\LSP_Solution.genruntimeconfig.cache

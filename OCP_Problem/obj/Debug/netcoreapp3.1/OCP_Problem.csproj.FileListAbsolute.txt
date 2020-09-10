@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.exe
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.dll
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\bin\Debug\netcoreapp3.1\OCP_Problem.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.dll
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\OCP_Problem\obj\Debug\netcoreapp3.1\OCP_Problem.genruntimeconfig.cache

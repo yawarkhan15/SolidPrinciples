@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.exe
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\bin\Debug\netcoreapp3.1\OCP-Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\OCP-Solution\obj\Debug\netcoreapp3.1\OCP-Solution.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.exe
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\bin\Debug\netcoreapp3.1\SRP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\SRP_Solution\obj\Debug\netcoreapp3.1\SRP_Solution.genruntimeconfig.cache

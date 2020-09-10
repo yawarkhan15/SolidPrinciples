@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.exe
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.dll
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\bin\Debug\netcoreapp3.1\ISP_Problem.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.dll
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Problem\obj\Debug\netcoreapp3.1\ISP_Problem.genruntimeconfig.cache

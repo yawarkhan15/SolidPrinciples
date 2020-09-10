@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.exe
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.deps.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.runtimeconfig.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\bin\Debug\netcoreapp3.1\ISP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.dll
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.pdb
+C:\Users\DELL\source\repos\SolidPrinciple\ISP_Solution\obj\Debug\netcoreapp3.1\ISP_Solution.genruntimeconfig.cache
